@@ -1,14 +1,9 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 Syu-Jhih Jhang received the M.S. degree in Department of Information Management from National Taipei University of Nursing and Health Sciences, Taiwan, in 2021. She is currently pursuing a Ph.D. degree in Computer Science and Information Engineering at Tamkang University, New Taipei, Taiwan. Her current research interests are Internet of Things, Wireless Sensor Networks and Artificial Intelligence.
 
+	
+*Publications*
+
+*Jounal Paper*
 [J1] C.-Y. Chang, S.-J. Jhang, S.-J. Wu, and D. S. Roy, 
      “JCF: Joint coarse- and fine-grained similarity comparison for plagiarism detection based on NLP,” 
      *The Journal of Supercomputing*, vol. 80, no. 1, pp. 363–394, 2024.
@@ -33,6 +28,8 @@ Syu-Jhih Jhang received the M.S. degree in Department of Information Management 
      “EnExV1.5: A parallel tree-based framework for fast interpretable matrix operations,” 
      *International Journal of Design, Analysis and Tools for Integrated Circuits and Systems*, 2024.
 
+
+*Conference Paper*
 [C1] S.-J. Jhang, H.-C. Chang, Q. Zhang, and C.-Y. Chang, 
      “Courtroom transcription: A deep learning approach to legal terminology and speaker identification,” 
      in *Proc. IEEE Int. Conf. on Consumer Electronics–Taiwan (ICCE-Taiwan)*, 2024.
